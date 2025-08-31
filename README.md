@@ -14,10 +14,7 @@ This static site highlights the rich cultural heritage of India through its majo
 - Clean and beginner-friendly code
 
 ## 💻 How to Use
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
-
-No additional setup needed!
+TRY ONLINE - https://codexrups10.github.io/Festival/
 
 ## 🙏 Credits
 Images used are royalty-free from open sources like Unsplash and Pexels.
